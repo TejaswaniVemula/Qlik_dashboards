@@ -1,0 +1,38 @@
+
+SHEETS
+{"qInfo":{"qId":"jdrMeqJ","qType":"sheet"},"qMeta":{"title":"Hospital Admission Dashboard","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"jdrMeqJ","approved":false,"published":false,"owner":"auth0|3bed7843baa1cf4751670428ad401773bf15e73ff1baae90ac362d8d696831e0","ownerId":"6ab4c4719b26734dc80459c9","createdDate":"2026-09-25T12:11:13.017Z","modifiedDate":"2026-10-12T04:16:34.869Z","encrypted":true,"privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"bJujNXt","type":"kpi","visible":true,"col":0,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":0,"width":12.5,"height":8.333333333333332}}
+{"name":"vgUMQY","type":"kpi","visible":true,"col":3,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":12.5,"width":12.5,"height":8.333333333333332}}
+{"name":"jUujk","type":"kpi","visible":true,"col":6,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":25,"width":12.5,"height":8.333333333333332}}
+{"name":"WHCdUw","type":"kpi","visible":true,"col":9,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":37.5,"width":12.5,"height":8.333333333333332}}
+{"name":"DpVSjae","type":"kpi","visible":true,"col":12,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":50,"width":12.5,"height":8.333333333333332}}
+{"name":"aqEb","type":"kpi","visible":true,"col":15,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":62.5,"width":12.5,"height":8.333333333333332}}
+{"name":"jZaHtU","type":"kpi","visible":true,"col":18,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":75,"width":12.5,"height":8.333333333333332}}
+{"name":"kYrKb","type":"kpi","visible":true,"col":21,"row":0,"colspan":3,"rowspan":1,"bounds":{"y":0,"x":87.5,"width":12.5,"height":8.333333333333332}}
+{"name":"JkdPb","type":"barchart","visible":true,"col":0,"row":1,"colspan":6,"rowspan":11,"bounds":{"y":8.333333333333332,"x":0,"width":25,"height":91.66666666666666}}
+{"name":"HqLfD","type":"barchart","visible":true,"col":6,"row":1,"colspan":9,"rowspan":5,"bounds":{"y":8.333333333333332,"x":25,"width":37.5,"height":41.66666666666667}}
+{"name":"ymqPkJ","type":"barchart","visible":true,"col":6,"row":6,"colspan":18,"rowspan":6,"bounds":{"y":50,"x":25,"width":75,"height":50}}
+{"name":"cgeZ","type":"treemap","visible":true,"col":15,"row":1,"colspan":9,"rowspan":5,"bounds":{"y":8.333333333333332,"x":62.5,"width":37.5,"height":41.66666666666667}}
+
+DIMENSIONS
+
+MEASURES
+
+VARIABLES
+{"qName":"currentName","qDefinition":"Main Specialty Edited (hosp-epis-stat-admi-main-spec-2019-20-tab)_Main Specialty Edited","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"c9ab4bda-56a5-4b94-a0b1-d705e264379b","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"name","qDefinition":"Main Specialty Edited (hosp-epis-stat-admi-main-spec-2019-20-tab)_Main Specialty Edited","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"2ed9f58c-344f-4c82-ac70-c7fe456c7dc8","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"index","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"926d1c63-ee35-4328-b38b-f13f093176bb","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"matches","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"1b2a0103-89df-4dcd-9196-bf1885206156","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":3,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":1,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":3,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"Main Speciality","qCardinal":85,"qTags":["$ascii","$text"],"qSrcTables":["Main Specialty Edited (hosp-epis-stat-admi-main-spec-2019-20-tab)_Main Specialty Edited"]}
+{"qName":"Attribute","qCardinal":12,"qTags":["$ascii","$text"],"qSrcTables":["Main Specialty Edited (hosp-epis-stat-admi-main-spec-2019-20-tab)_Main Specialty Edited"]}
+{"qName":"Value","qCardinal":818,"qTags":[],"qSrcTables":["Main Specialty Edited (hosp-epis-stat-admi-main-spec-2019-20-tab)_Main Specialty Edited"]}
